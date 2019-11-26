@@ -1,10 +1,5 @@
 #include "MainFrame.h"
-
 #include "wx/wrapsizer.h"
-
-enum WxIds {
-	UPDATE_TIMER = 3
-};
 
 wxBEGIN_EVENT_TABLE(MainFrame, wxFrame)
 EVT_CLOSE(MainFrame::OnClose)

@@ -1,6 +1,5 @@
 #pragma once
 #include <wx/wxprec.h>
-#include "MainFrame.h"
 
 class MainApp : public wxApp {
 public:

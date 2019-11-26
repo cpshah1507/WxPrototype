@@ -74,11 +74,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="GeneratedFrame.cpp" />
+    <ClCompile Include="GridViewFrame.cpp" />
     <ClCompile Include="MainFrame.cpp" />
     <ClCompile Include="MainApp.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GeneratedFrame.h" />
+    <ClInclude Include="GridViewFrame.h" />
     <ClInclude Include="MainFrame.h" />
     <ClInclude Include="MainApp.h" />
   </ItemGroup>
