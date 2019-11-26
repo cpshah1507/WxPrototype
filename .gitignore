@@ -1,0 +1,6 @@
+# WxWidgets library directory
+wxWidgets_x64-HeadersAndLibs
+
+# Visual studio directories
+.vs
+x64
