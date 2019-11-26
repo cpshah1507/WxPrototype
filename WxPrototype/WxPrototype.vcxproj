@@ -13,7 +13,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{E26BFB66-5401-47FD-BF89-AD3024BBA52A}</ProjectGuid>
-    <RootNamespace>WxPrototype1</RootNamespace>
+    <RootNamespace>WxPrototype</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
     <ProjectName>WxPrototype</ProjectName>
   </PropertyGroup>
