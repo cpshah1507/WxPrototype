@@ -4,6 +4,7 @@
 #include <wx/spinctrl.h>
 #include <wx/timer.h>
 #include "GeneratedFrame.h"
+#include "wx/grid.h"
 
 /*
 This frame demonstrates dynamically creating a grid view and populating data in it with wxWidgets
@@ -17,6 +18,9 @@ public:
 protected:
 	
 private:
-	
+	wxTimer UpdateDataTimer;
+	void UpdateData(wxTimerEvent&);
+	wxGrid* m_grid;
+
 	wxDECLARE_EVENT_TABLE();
 };
